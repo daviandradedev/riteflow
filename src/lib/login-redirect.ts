@@ -1,0 +1,9 @@
+import { authHubUrlForHost } from "@/lib/auth-public";
+
+export function redirectToAuthLogin() {
+  if (typeof window === "undefined") return;
+  const login = new URL(authHubUrlForHost(window.location.hostname));
+  login.searchParams.set("callbackURL", window.location.href);
+  login.searchParams.set("lang", document.documentElement.lang.startsWith("pt") ? "pt" : "en");
+  window.location.assign(login.toString());
+}
