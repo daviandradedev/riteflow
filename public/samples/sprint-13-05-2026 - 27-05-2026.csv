@@ -1,0 +1,51 @@
+title,assignee,estimate,status,board,project,sprints,link,completed_at
+task#107 - Aging widgets,sam,8,Finalizada,-,Indicadores,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/107,18/05/2026
+task#113 - [QA] Multi-file upload,sam,2,Finalizada,-,Plataforma,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/113,15/05/2026
+task#114 - Contributor mix view,morgan,5,Finalizada,-,Indicadores,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/114,20/05/2026
+task#117 - Neon history stub,sam,5,Aberta,Em Revisão,Plataforma,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/117,-
+task#118 - Retrospective callouts,alex,2,Finalizada,-,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/118,16/05/2026
+task#119 - Table column alignment,jordan,3,Finalizada,-,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/119,22/05/2026
+task#120 - [QA] Table alignment,morgan,2,Finalizada,-,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/120,24/05/2026
+task#121 - Sample pack loader,alex,3,Finalizada,-,Plataforma,13/05/2026 ate 27/05/2026,https://example.com/issues/121,19/05/2026
+task#122 - Board bottleneck insight,jordan,5,Aberta,A Fazer,Indicadores,13/05/2026 ate 27/05/2026,https://example.com/issues/122,-
+task#123 - Finish timing labels,morgan,2,Finalizada,-,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/123,25/05/2026
+task#124 - [QA] Finish timing,sam,2,Aberta,Pronto para QA,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/124,-
+task#125 - Export JSON schema,alex,1,Finalizada,-,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/125,14/05/2026
+task#133 - [QA] Manual CSV export,sam,2,Aberta,Pronto para QA,Relatórios,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/133,-
+task#135 - Bottleneck board map,jordan,3,Aberta,Deploy,Indicadores,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/135,-
+task#138 - [QA] Compare deltas,sam,2,Finalizada,-,Indicadores,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/138,21/05/2026
+task#140 - Planning guardrails,alex,3,Aberta,Em Revisão,Relatórios,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/140,-
+task#142 - Loop evaluate button,jordan,5,Finalizada,-,Plataforma,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/142,23/05/2026
+task#144 - PDF A4 framing,alex,5,Finalizada,-,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/144,26/05/2026
+task#145 - [QA] PDF language,morgan,2,Aberta,Pronto para QA,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/145,-
+task#146 - Semantic row tones,jordan,3,Finalizada,-,Indicadores,13/05/2026 ate 27/05/2026,https://example.com/issues/146,18/05/2026
+task#147 - Sprint chips header,alex,2,Finalizada,-,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/147,15/05/2026
+task#148 - Workspace Neon schema,sam,5,Aberta,Deploy,Plataforma,13/05/2026 ate 27/05/2026,https://example.com/issues/148,-
+task#149 - Evidence intro copy,morgan,1,Finalizada,-,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/149,14/05/2026
+task#150 - Aging includes stuck,jordan,3,Finalizada,-,Indicadores,13/05/2026 ate 27/05/2026,https://example.com/issues/150,27/05/2026
+task#151 - [QA] Aging ranking,sam,2,Aberta,A Fazer,Indicadores,13/05/2026 ate 27/05/2026,https://example.com/issues/151,-
+task#152 - Mobile file list scroll,alex,2,Finalizada,-,Plataforma,13/05/2026 ate 27/05/2026,https://example.com/issues/152,20/05/2026
+task#153 - Sticky header scroll,alex,3,Aberta,Em Revisão,Plataforma,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/153,-
+task#154 - [QA] Sticky header,sam,2,Aberta,Pronto para QA,Plataforma,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/154,-
+task#155 - Sprint date parser,jordan,5,Aberta,Em Revisão,Plataforma,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/155,-
+task#156 - Aging badge contrast,morgan,2,Aberta,Deploy,Indicadores,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/156,-
+task#161 - Board column aliases,alex,5,Aberta,A Fazer,Relatórios,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/161,-
+task#162 - Print CSS margins,jordan,3,Aberta,Deploy,Relatórios,15/04/2026 ate 29/04/2026 | 29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/162,-
+task#163 - Evidence timeline,morgan,5,Aberta,Em Revisão,Indicadores,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/163,-
+task#164 - [QA] Evidence timeline,sam,2,Aberta,Pronto para QA,Indicadores,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/164,-
+task#165 - Follow-up due dates,alex,3,Aberta,A Fazer,Relatórios,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/165,-
+task#167 - Dark chart axes,morgan,2,Aberta,Deploy,Indicadores,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/167,-
+task#168 - [QA] Dark charts,sam,2,Aberta,Pronto para QA,Indicadores,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/168,-
+task#169 - Workspace import map,alex,5,Aberta,Em Revisão,Plataforma,29/04/2026 ate 13/05/2026 | 13/05/2026 ate 27/05/2026,https://example.com/issues/169,-
+task#171 - PDF blank page trim,jordan,3,Finalizada,-,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/171,25/05/2026
+task#172 - [QA] PDF blank page,sam,2,Aberta,Pronto para QA,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/172,-
+task#173 - Proportional age rows,morgan,3,Aberta,Em Revisão,Indicadores,13/05/2026 ate 27/05/2026,https://example.com/issues/173,-
+task#174 - Idade column label,alex,1,Finalizada,-,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/174,16/05/2026
+task#175 - Neutral summary pills,jordan,2,Finalizada,-,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/175,21/05/2026
+task#176 - Sky link palette,morgan,2,Aberta,A Fazer,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/176,-
+task#177 - Stuck queue queue,sam,5,Aberta,Deploy,Plataforma,13/05/2026 ate 27/05/2026,https://example.com/issues/177,-
+task#178 - [QA] Stuck queue queue,sam,2,Aberta,Pronto para QA,Plataforma,13/05/2026 ate 27/05/2026,https://example.com/issues/178,-
+task#179 - Carryover rate card,alex,3,Aberta,Em Revisão,Indicadores,13/05/2026 ate 27/05/2026,https://example.com/issues/179,-
+task#180 - Daily risk sort,jordan,3,Aberta,A Fazer,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/180,-
+task#181 - [QA] Daily risk sort,morgan,2,Aberta,Pronto para QA,Relatórios,13/05/2026 ate 27/05/2026,https://example.com/issues/181,-
+task#182 - Planning capacity note,alex,2,Aberta,Deploy,Documentação,13/05/2026 ate 27/05/2026,https://example.com/issues/182,-

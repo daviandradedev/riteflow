@@ -1,0 +1,31 @@
+title,assignee,estimate,status,board,project,sprints,link,completed_at
+task#101 - Add CSV import,alex,3,Finalizada,-,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/101,20/04/2026
+task#102 - Board filters,jordan,5,Finalizada,-,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/102,25/04/2026
+task#103 - [QA] CSV import checks,sam,2,Finalizada,-,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/103,27/04/2026
+task#104 - Export PDF,alex,5,Aberta,Em Revisão,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/104,-
+task#105 - Dark mode polish,morgan,2,Aberta,A Fazer,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/105,-
+task#106 - Locale switch,jordan,3,Finalizada,-,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/106,18/04/2026
+task#107 - Aging widgets,sam,8,Aberta,Deploy,Indicadores,15/04/2026 ate 29/04/2026,https://example.com/issues/107,-
+task#108 - [QA] Export flows,morgan,2,Aberta,Pronto para QA,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/108,-
+task#109 - Sample docs,alex,1,Finalizada,-,Documentação,15/04/2026 ate 29/04/2026,https://example.com/issues/109,16/04/2026
+task#110 - Chart height fix,jordan,2,Finalizada,-,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/110,28/04/2026
+task#126 - Auth callback redirect,alex,5,Finalizada,-,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/126,22/04/2026
+task#127 - Session keep-alive,jordan,3,Finalizada,-,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/127,24/04/2026
+task#128 - [QA] Auth handoff,sam,2,Aberta,Pronto para QA,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/128,-
+task#129 - Metric card tones,morgan,2,Finalizada,-,Indicadores,15/04/2026 ate 29/04/2026,https://example.com/issues/129,21/04/2026
+task#130 - Flow trail nav,alex,3,Finalizada,-,Documentação,15/04/2026 ate 29/04/2026,https://example.com/issues/130,19/04/2026
+task#131 - Upload dropzone layout,jordan,5,Aberta,Em Revisão,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/131,-
+task#132 - Manual form clear,morgan,1,Finalizada,-,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/132,17/04/2026
+task#133 - [QA] Manual CSV export,sam,2,Aberta,A Fazer,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/133,-
+task#134 - Guest history copy,alex,2,Finalizada,-,Documentação,15/04/2026 ate 29/04/2026,https://example.com/issues/134,26/04/2026
+task#135 - Bottleneck board map,jordan,3,Aberta,Deploy,Indicadores,15/04/2026 ate 29/04/2026,https://example.com/issues/135,-
+task#153 - Sticky header scroll,alex,3,Aberta,Em Revisão,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/153,-
+task#154 - [QA] Sticky header,sam,2,Aberta,Pronto para QA,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/154,-
+task#155 - Sprint date parser,jordan,5,Aberta,A Fazer,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/155,-
+task#156 - Aging badge contrast,morgan,2,Aberta,Deploy,Indicadores,15/04/2026 ate 29/04/2026,https://example.com/issues/156,-
+task#157 - Callout warm palette,alex,2,Aberta,Em Revisão,Documentação,15/04/2026 ate 29/04/2026,https://example.com/issues/157,-
+task#158 - [QA] Callout contrast,sam,1,Aberta,Pronto para QA,Documentação,15/04/2026 ate 29/04/2026,https://example.com/issues/158,-
+task#159 - Contributor sort alpha,jordan,3,Finalizada,-,Indicadores,15/04/2026 ate 29/04/2026,https://example.com/issues/159,23/04/2026
+task#160 - Empty upload CTA,morgan,2,Finalizada,-,Plataforma,15/04/2026 ate 29/04/2026,https://example.com/issues/160,28/04/2026
+task#161 - Board column aliases,alex,5,Aberta,A Fazer,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/161,-
+task#162 - Print CSS margins,jordan,3,Aberta,Deploy,Relatórios,15/04/2026 ate 29/04/2026,https://example.com/issues/162,-
